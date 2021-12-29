@@ -5,5 +5,5 @@
 
 <a href="https://as-react-admin.netlify.app/#/rentals">Visit the APP</a>
 
-<p>username: confidence@appsmith.com
-password: 123456</p>
+<p>username: confidence@appsmith.com</p>
+<p>password: 123456</p>
